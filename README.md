@@ -16,6 +16,6 @@
 
 ### Tools :fire:
 |<img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.svg" width=60> | <img src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" width=60> |
-|:---:|:---:|:---:|
+|:---:|:---:|
 
-![ViewCount](https://views.whatilearened.today/views/github/coderjojo/views.svg)
+![ViewCount](https://views.whatilearened.today/views/github/KodeYash/views.svg)
