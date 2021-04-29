@@ -5,7 +5,7 @@
   <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" width=100>
   <br><br>
   <samp>
-    I'm Yash currently a Second Year CSE student at <a href="https://www.cuchd.in/">@Chandigarh University :school: </a> and currently learning about Frontend Web Development.Occasionaly I do participate in Hackathons :bulb: and I have a love/hate relationship with Programming :neutral_face:.I have programming knowledge in C, C++, Python and Java.
+    I'm Yash currently a Second Year CSE student at <a href="https://www.cuchd.in/">@Chandigarh University :school: </a> and currently learning about Frontend Web Development.Occasionaly I do participate in Hackathons :bulb: and I have a love/hate relationship with Programming :neutral_face:.I have programming knowledge in C, C++, Python , Java, HTML and CSS.
   </samp>
 </p>
 
